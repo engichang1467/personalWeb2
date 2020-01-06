@@ -42,6 +42,7 @@ p {
     line-height: 30px;
 }
 
+
 a {
     -webkit-transition: border-color 200ms ease, color 200ms ease;
     transition: border-color 200ms ease, color 200ms ease;
@@ -57,6 +58,22 @@ a:hover {
 a:focus {
     border-bottom-color: #1d2330;
     color: #1d2330;
+}
+
+h3 {
+    color: #fff; 
+    font-family: Averta, sans-serif; 
+    text-transform: uppercase; 
+    margin-left:2.5em; 
+}
+
+p2 {
+    margin-bottom: 20px;
+    font-family: Averta, sans-serif;
+    color: #fff;
+    font-size: 22px;
+    line-height: 30px;
+    margin-left: 5em;
 }
 
 .content {
